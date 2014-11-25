@@ -1,7 +1,7 @@
 SDSS L dwarf Templates
 ======================
 
-This repo contains downloadable template spectra for L0-L8 dwarfs. The templates are described in detail by Schmidt et al. (2014). In short, each template contains the mean, median, error and spread of L dwarf spectra that have been corrected to zero radial velocity and normalized (at 8350--8450Å). The spectra primarily come from SDSS, but have been supplemented by data from the APO 3.5-m telescope. This table includes information and individual downloads for each of the templates:
+This repo contains downloadable template spectra for L0-L8 dwarfs. The templates are described in detail by [Schmidt et al. (2014)](http://adsabs.harvard.edu/abs/2014PASP..126..642S). In short, each template contains the mean, median, error and spread of L dwarf spectra that have been corrected to zero radial velocity and normalized (at 8350--8450Å). The spectra primarily come from SDSS, but have been supplemented by data from the APO 3.5-m telescope. This table includes information and individual downloads for each of the templates:
 
 |Spectral|Resolution|Wavelength Range|# Spectra|text|fits|jpeg|
 |:---:|:--------------:|:----:|:---------:|:-----:|:----:|:----:|
